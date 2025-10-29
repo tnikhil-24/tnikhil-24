@@ -1,93 +1,92 @@
-<h1 align="center">Hi 👋, I'm Nikhil Thoutu</h1>
-<h3 align="center">A passionate Full-Stack Developer | MS CS @ University of North Texas</h3>
+# Hi 👋, I'm **Nikhil Thoutu**  
+### *Full-Stack Developer | AI/ML Enthusiast | MS CS @ University of North Texas*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tnikhil-24&label=Profile%20views&color=0e75b6&style=flat" alt="tnikhil-24" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=tnikhil-24&label=Profile%20Views&color=brightgreen)
 
 ---
 
-### 🔍 About Me
+## 🔥 About Me
 
-- 🎓 **MS in Computer Science** — *University of North Texas* (CGPA: 4.0)
-- 🎓 **B.Tech in CSE** — *VNR VJIET, India* (CGPA: 3.44)
-- 💼 **Teaching Assistant** @ University of North Texas  
-- 💻 **Former Software Intern** @ Oriana Software Solutions  
-- 🔭 Currently working on **Employee Management System**  
-- 🌱 Actively learning **Microservices & Scalable Architectures**  
-- 💬 Ask me about: **React.js, Spring Boot, Node.js, MySQL, Kafka**  
-- 📫 Reach me at: **nikhilthoutu324@gmail.com**  
-- 🌍 Based in: **Texas, USA**  
-
----
-
-### 📌 Projects
-
-#### 🚀 Welding Pro Application (Microservices Architecture)
-- Built an e-commerce platform for welding equipment using **Java Spring Boot**, **Next.js**, and **Docker**
-- Implemented **WebSocket-based** real-time notifications and **microservices** for payment, auth, product & order services
-- Managed 100k+ transactions and led a 4-member team for successful deployment
-
-#### 🧠 Multi-Face Detection using MTCNN
-- Developed a real-time facial recognition system using **MTCNN + ResNet**, achieving **98% accuracy**
-- Published in *Industrial Engineering Journal* (UGC CARE Group-1)  
-  [🔗 Read Paper](http://www.journal-iiie-india.com/1_aug_23/33_online.pdf)
-
-#### 🍴 Cuisine Connect (MERN Stack + Kafka)
-- Built a scalable restaurant management system with **React.js**, **Node.js**, **MongoDB**, and **Kafka**
-- Achieved 30% increase in customer satisfaction and supported 500+ daily transactions with load balancing
+- 🎓 Master’s in **Computer Science** — *University of North Texas* (CGPA: 3.83)
+- 🎓 B.Tech in CSE — *VNR VJIET, India* (CGPA: 3.44)
+- 🎓 **Teaching Assistant** — Data Structures & Algorithms Labs
+- 💻 Former **Software Engineering Intern** @ Oriana Software Solutions
+- 🧠 Interests: Distributed Systems, Microservices, AI Agents, System Design
+- 🌱 Currently building: **AI-powered automation tools & RAG-based systems**
+- 📍 Texas, USA
+- 📫 Email: **nikhilthoutu324@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧩 Featured Projects
 
-**Languages:**  
-`Java` `Python` `JavaScript` `C++` `C`  
-
-**Frontend:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-
-**Backend:**  
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>  
-
-**Databases:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/>
-
-**DevOps & Tools:**  
-`Docker` `Git` `GitHub` `Postman` `Kafka`  
-
-**AI & ML:**  
-`Computer Vision` `LangChain` `Multi-task CNN` `Generative AI`
+### **FinBot — AI Stock Pattern Analyzer**
+*Python, LangGraph, Gemini API, Pandas*
+- LLM-powered market analysis agent
+- Recognizes advanced stock patterns w/ **92% accuracy**
+- Cuts manual analysis time by **80%**
 
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnikhil-24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnikhil-24&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### **Customer Support RAG System**
+*Python, FAISS, BM25, Cross Encoder, Gradio*
+- Hybrid dense + sparse + reranking retrieval
+- **35% accuracy improvement** & **70% hallucination reduction**
+- Built-in trace logging & visualization
 
 ---
 
-### 🏅 Achievements & Certifications
-
-- 🥇 Winner — CFG Competition, VNR College of Engineering  
-- 🥈 Runner-Up — Hackathon, Vasavi College of Engineering  
-- 🏅 **Big Data Computing** – *NPTEL Elite + Silver Medal (IIT Kanpur)*  
-- ✅ **IT Automation with Python** – *Google via Coursera*  
+### **Welding Pro — E-Commerce Microservices Platform**
+*Spring Boot, Next.js, Docker, WebSockets*
+- Microservices-based scalable system
+- Supported **100k+ transactions** with 99.8% uptime
+- Led **4 engineers** end-to-end
 
 ---
 
-### 🤝 Connect with Me
+### **Cuisine Connect — Restaurant Ops System**
+*MERN + Kafka*
+- Real-time order pipeline via Kafka
+- **30% higher** customer satisfaction
+- Handles **500+ daily transactions**
 
-<p align="left">
-  <a href="https://linkedin.com/in/nikhil-thoutu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-thoutu" height="30" width="40" />
-  </a>
-  <a href="mailto:nikhilthoutu324@gmail.com">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="email" height="30" width="40" />
-  </a>
-</p>
+---
+
+## 🧠 Skills & Technologies
+
+| Domain | Tools/Tech |
+|-------|------------|
+| **Languages** | Python, Java, JavaScript, TypeScript, C++ |
+| **Frontend** | React.js, Next.js, Bootstrap |
+| **Backend** | Spring Boot 3.x, Node.js, Express, FastAPI |
+| **Databases** | MySQL, MongoDB, PostgreSQL, ChromaDB, Pinecone |
+| **Messaging / Distributed** | Apache Kafka, RabbitMQ, WebSockets |
+| **Cloud / DevOps** | Docker, Kubernetes, AWS (EC2, S3, RDS, Lambda), GitHub |
+| **AI / ML** | Generative AI, LangChain, RAG, CNN, Computer Vision, NLP |
+
+---
+
+## 📊 GitHub Analytics
+
+| Stats | Top Languages |
+|------|---------------|
+| ![](https://github-readme-stats.vercel.app/api?username=tnikhil-24&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tnikhil-24&layout=compact&theme=tokyonight) |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner — CFG Programming Competition  
+- 🥈 Runner-Up — Hackathon @ Vasavi College  
+- 🥇 **NPTEL Elite + Silver Medal** — Big Data Computing (IIT Kanpur)  
+- ✅ **Google IT Automation with Python** (Coursera)
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/nikhil-thoutu) • [GitHub](https://github.com/tnikhil-24) • **Email:** nikhilthoutu324@gmail.com
+
+---
+
+### ⭐ *If you like my work, consider starring my repositories!*
