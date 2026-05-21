@@ -7,7 +7,7 @@
 
 ## 🔥 About Me
 
-- 🎓 Master’s in **Computer Science** — *University of North Texas* (CGPA: 3.83)
+- 🎓 Master’s in **Computer Science** — *University of North Texas* (CGPA: 3.9)
 - 🎓 B.Tech in CSE — *VNR VJIET, India* (CGPA: 3.44)
 - 🎓 **Teaching Assistant** — Data Structures & Algorithms Labs
 - 💻 Former **Software Engineering Intern** @ Oriana Software Solutions
