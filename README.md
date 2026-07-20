@@ -120,10 +120,6 @@
 | ![Stats](./profile/stats.svg) | ![Top Langs](./profile/top-langs.svg) |
 
 ---
-## 🌱 Open Source Contributions
-
-![Open Source Stats](./profile/opensource.svg)
----
 
 ## 📄 Research
 
