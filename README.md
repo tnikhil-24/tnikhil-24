@@ -117,7 +117,9 @@
 
 | Stats | Top Languages |
 |-------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=tnikhil-24&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tnikhil-24&layout=compact&theme=tokyonight) |
+| ![Stats](./profile/stats.svg) | ![Top Langs](./profile/top-langs.svg) |
+
+---
 
 ---
 
