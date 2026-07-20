@@ -3,7 +3,7 @@ name: Update README cards
 on:
   schedule:
     - cron: "0 3 * * *"   # runs daily at 3 AM UTC
-  workflow_dispatch:        # lets you trigger it manually too
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -28,6 +28,14 @@ jobs:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&theme=tokyonight'
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate open source contributions card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs&theme=tokyonight'
+          path: profile/opensource.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
